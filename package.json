@@ -2,7 +2,7 @@
     "name": "Hff-blog",
     "title": "Hff Blog",
     "version": "1.0.0",
-    "homepage": "http://47.114.157.97/",
+    "homepage": "https://huangfangfeng.github.io",
     "author": "HuangFangfeng <15068704759@163.com>",
     "devDependencies": {
         "grunt": "~0.4.5",

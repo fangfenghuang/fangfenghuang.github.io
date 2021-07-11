@@ -5,7 +5,7 @@ header-img: img/root/home-bg-fj.jpg
 email:  15068704759@163.com
 description: "A Programer"
 keyword: "Go Python C/C++"
-url: "http://47.114.157.97/"              # your host, for absolute URL
+url: "https://huangfangfeng.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.

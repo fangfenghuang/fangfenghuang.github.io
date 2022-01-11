@@ -29,7 +29,7 @@
     - [「黄发奋的知乎」](https://www.zhihu.com/people/huangfangfeng-20)
 
 - GitHub
-    - [「GitHub」](https://www.imooc.com/u/4024769/articles)
+    - [「GitHub」](https://github.com/fangfenghuang)
 
 - Linkin
     - [「Linkin」](https://www.linkedin.com/in/huang-fangfeng-60887981/)

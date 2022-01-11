@@ -1,5 +1,5 @@
 # Hff
 
-#### [Hff Blog](https://huangfangfeng.github.io/blog-index/)
+#### [Hff Blog](https://fangfenghuang.github.io/blog-index/)
 
-#### [Home page](https://huangfangfeng.github.io)
+#### [Home page](https://fangfenghuang.github.io)

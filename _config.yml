@@ -5,7 +5,7 @@ header-img: img/root/home-bg-fj.jpg
 email:  15068704759@163.com
 description: "A Programer"
 keyword: "Go Python C/C++"
-url: "https://huangfangfeng.github.io"              # your host, for absolute URL
+url: "https://fangfenghuang.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: true
 zhihu_username:     huangfangfeng-20
-github_username:    huangfangfeng
+github_username:    fangfenghuang
 linkedin_username:  huang-fangfeng-60887981  
 #weibo_username:    
 #twitter_username:   
@@ -51,11 +51,11 @@ kramdown:
 # gitalk settings
 gitalk:
    enable: true
-   owner: huangfangfeng
-   repo: huangfangfeng.github.io
+   owner: fangfenghuang
+   repo: fangfenghuang.github.io
    clientID: 
    clientSecret: 
-   admin: huangfangfeng
+   admin: fangfenghuang
 
 # ---------------- #
 #      Search      #

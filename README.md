@@ -1,4 +1,5 @@
 一个基于vuepress-theme-vdoing + github page + markdown生成的个人网站
+
 当前代码为博客源码，博客网页为静态部署，发布分支（pages source）为gh-pages
 
 **[博客首页]** [https://fangfenghuang.github.io](https://fangfenghuang.github.io)
@@ -8,16 +9,16 @@
 
 * 博文内容（markdown格式）放置于docs目录分类目录下
 * 当前博客分为两大类：01.技术杂谈 02.生活随写
-* 按序号添加分类文章，添加标签、分类(建议，如果不添加编译时会自动添加模板)
-* 增加导航链接：docs\.vuepress\config\themeConfig\nav.js
-* 修改首页布局：docs\index.html
+* 按序号添加分类文章，添加分类（目录相关）、标签（自定义）(建议，如果不添加编译时会自动添加模板)
+* 增加常用导航链接：docs/.vuepress/config/themeConfig/nav.js
+* 修改首页布局：docs/index.html
 
 # 部署
 
 ## 前提
 
-* 创建自己的githubpage仓库，如：fangfenghuang.GitHub.io，设置pages的source为gh-pages
-* git clone https://github.com/fangfenghuang/fangfenghuang.GitHub.io.git
+* 创建自己的githubpage仓库，如：fangfenghuang.github.io，设置pages的source为gh-pages
+* git clone https://github.com/fangfenghuang/fangfenghuang.github.io.git
 * 本地安装npm yarn node
 
 ## 本地调试
@@ -50,3 +51,4 @@ npm run build # or yarn build
 # 注意事项
 
 + permalink不要写重复，否则错误信息可能不会太明显
++ md文件标题从二级标题开始

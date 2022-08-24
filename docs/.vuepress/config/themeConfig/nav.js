@@ -27,12 +27,13 @@ module.exports = [
     ],
   },
   {
-    text: '书籍', link: '/books/',
+    text: '阅读', link: '/books/',
     items: [
       {
         items: [
           { text: '书单', link: '/books/' },
           { text: '电子书', link: '/pages/dianzishu/' },
+          { text: '优质博客', link: '/pages/yzbook/' },
         ]
       }
     ],
